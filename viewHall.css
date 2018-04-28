@@ -1,0 +1,29 @@
+body{
+    background: #254DBB;
+    color: white ;
+}
+.btn{
+    border-radius: 5px;
+}
+#logo{
+    width: 300px;  
+}
+#Hline{
+    width: 500px;
+}
+#MainDiv{
+    height: 100%;
+    text-align: center; 
+}
+.paddbot{
+    padding-bottom: 10px;
+}
+input{
+    width: 20%;
+}
+fieldset{
+  margin-left: 150px;
+	width:225px;
+  height: 200px;
+  float: left;
+}
